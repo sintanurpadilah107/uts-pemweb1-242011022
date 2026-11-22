@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "kategori": "Produk & Teknologi",
+        "tanggal": "15 Oktober 2026",
+        "judul": "Peluncuran Platform Digital Nusantara v2.0",
+        "ringkasan": "Peningkatan kecepatan layanan dan keamanan data bagi seluruh mitra bisnis.",
+        "konten": "Platform Digital Nusantara v2.0 hadir dengan antarmuka lebih cepat, sistem autentikasi berlapis, serta integrasi pelaporan real-time untuk mendukung operasional mitra bisnis di berbagai daerah."
+    },
+    {
+        "id": 2,
+        "kategori": "CSR & Karir",
+        "tanggal": "02 November 2026",
+        "judul": "Program Beasiswa & Pelatihan Industri TI",
+        "ringkasan": "Membuka kesempatan magang dan pelatihan web modern bagi mahasiswa.",
+        "konten": "Program ini dirancang untuk membekali mahasiswa dengan keterampilan pengembangan aplikasi web modern, kolaborasi tim, dan proyek industri."
+    },
+    {
+        "id": 3,
+        "kategori": "Berita Perusahaan",
+        "tanggal": "18 November 2026",
+        "judul": "Kemitraan Strategis Logistik Nasional",
+        "ringkasan": "Memperluas jaringan distribusi ke 12 kota besar di Indonesia.",
+        "konten": "Melalui kemitraan strategis ini, pengiriman layanan dan distribusi operasional diperluas ke 12 kota besar di Indonesia."
+    }
+]
