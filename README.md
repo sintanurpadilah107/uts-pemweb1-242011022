@@ -1,38 +1,38 @@
 # Tugas Ujian — Pemrograman Web 1
 
-- **Nama:** Sinta Nurpadilah[cite: 1, 7]
-- **NPM:** 242011022[cite: 1, 7]
-- **Kelas:** TIF RP 24 F[cite: 1, 7]
-- **Mata Kuliah:** Pemrograman Web 1[cite: 7]
+- **Nama:** Sinta Nurpadilah
+- **NPM:** 242011022
+- **Kelas:** TIF RP 24 F
+- **Mata Kuliah:** Pemrograman Web 1
 
 ---
 
 ## Project 1: Website Portal Informasi Perusahaan
 
-Website portal informasi perusahaan yang terdiri dari[cite: 1, 7]:
-- Halaman Utama (`index.html`)[cite: 1, 6, 7]
-- Halaman Detail Informasi (`detail.html`)[cite: 2, 6, 7]
-- Halaman Registrasi (`register.html`)[cite: 3, 6, 7]
-- Halaman Login (`login.html`) dengan validasi JavaScript (`if`)[cite: 4, 6, 7]
-- Halaman Menu Utama (`dashboard.html`)[cite: 5, 6, 7]
+Website portal informasi perusahaan yang terdiri dari:
+- Halaman Utama (`index.html`)
+- Halaman Detail Informasi (`detail.html`)
+- Halaman Registrasi (`register.html`)
+- Halaman Login (`login.html`) dengan validasi JavaScript (`if`)
+- Halaman Menu Utama (`dashboard.html`)
 
 ### Screenshot Project 1
 - **Halaman Utama:**
-  ![Halaman Utama](screenshot/halaman-utama.png)[cite: 10]
+  ![Halaman Utama](screenshot/halaman-utama.png)
 - **Halaman Detail Informasi:**
-  ![Detail Informasi](screenshot/detail.png)[cite: 10]
+  ![Detail Informasi](screenshot/detail.png)
 - **Halaman Registrasi:**
-  ![Registrasi](screenshot/registrasi.png)[cite: 10]
+  ![Registrasi](screenshot/registrasi.png)
 - **Halaman Login:**
-  ![Login](screenshot/login.png)[cite: 10]
+  ![Login](screenshot/login.png)
 - **Halaman Menu Utama:**
-  ![Dashboard](screenshot/dashboard.png)[cite: 10]
+  ![Dashboard](screenshot/dashboard.png)
 
 ---
 
 ## Project 2: CRUD API Data Informasi Perusahaan
 
-Endpoint CRUD API (`project2/api.php`) berdasarkan data *dummy* informasi pada Project 1[cite: 7, 10]:
+Endpoint CRUD API (`project2/api.php`) berdasarkan data *dummy* informasi pada Project 1:
 - `GET /project2/api.php` — Ambil semua data informasi
 - `GET /project2/api.php?id={id}` — Ambil data informasi berdasarkan ID
 - `POST /project2/api.php` — Tambah data informasi baru
@@ -41,10 +41,10 @@ Endpoint CRUD API (`project2/api.php`) berdasarkan data *dummy* informasi pada P
 
 ### Screenshot Pengujian API (Bruno)
 - **GET:**
-  ![Bruno GET](screenshot/bruno-get.png)[cite: 10]
+  ![Bruno GET](screenshot/bruno-get.png)
 - **POST:**
-  ![Bruno POST](screenshot/bruno-post.png)[cite: 10]
+  ![Bruno POST](screenshot/bruno-post.png)
 - **PUT:**
-  ![Bruno PUT](screenshot/bruno-put.png)[cite: 10]
+  ![Bruno PUT](screenshot/bruno-put.png)
 - **DELETE:**
-  ![Bruno DELETE](screenshot/bruno-delete.png)[cite: 10]
+  ![Bruno DELETE](screenshot/bruno-delete.png)
